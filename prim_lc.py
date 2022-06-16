@@ -1,3 +1,4 @@
+#Codingan Algo Prim
 INF = 9999999  #definisi bilangan tertinggi
 N = int(input("Masukkan jumlah vertex: ")) #input jumlah vertex
 
